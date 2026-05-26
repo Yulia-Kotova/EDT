@@ -176,6 +176,10 @@
           <dataPath xsi:type="form:DataPath">
             <segments>Объект.ДорБазы_СогласованнаяСкидка</segments>
           </dataPath>
+          <handlers>
+            <event>OnChange</event>
+            <name>ДорБазы_СогласованнаяСкидкаПриИзменении</name>
+          </handlers>
           <extendedTooltip>
             <name>ДорБазы_СогласованнаяСкидкаРасширеннаяПодсказка</name>
             <id>175</id>
